@@ -6,7 +6,7 @@
 	<link href="static/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-	<h1>Hello. Hello. You have successfully deplyoed your java application on TOMCAT Server</h1>
+	<h1>Hello! You have successfully deplyoed your java application on TOMCAT Server!</h1>
 	<ul>
 	
 	</ul>
